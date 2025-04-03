@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AplicaçãoHerança/1.0.0": {
+        "dependencies": {
+          "ClassesHerança": "1.0.0"
+        },
+        "runtime": {
+          "AplicaçãoHerança.dll": {}
+        }
+      },
+      "ClassesHerança/1.0.0": {
+        "runtime": {
+          "ClassesHerança.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicaçãoHerança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassesHerança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

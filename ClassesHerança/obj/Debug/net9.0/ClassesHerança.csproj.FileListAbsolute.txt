@@ -1,0 +1,11 @@
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\bin\Debug\net9.0\ClassesHerança.deps.json
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\bin\Debug\net9.0\ClassesHerança.dll
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\bin\Debug\net9.0\ClassesHerança.pdb
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.AssemblyInfoInputs.cache
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.AssemblyInfo.cs
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.dll
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\refint\ClassesHerança.dll
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ClassesHerança.pdb
+C:\Users\Michel\Desktop\trabalhos\Solução e Projeto\ClassesHerança\obj\Debug\net9.0\ref\ClassesHerança.dll
